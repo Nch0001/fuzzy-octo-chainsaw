@@ -40,7 +40,7 @@
                         "url": {
                             "_id_": 11,
                             "_type": "String",
-                            "value_": "main.html"
+                            "value_": "Sheet1.html"
                         }
                     }
                 },
@@ -80,22 +80,22 @@
                 "color_": -1
             },
             "foreground": {
+                "_id_": 20,
                 "_type": "DrawableReference",
                 "ref": {
+                    "_id_": 21,
                     "_type": "String",
-                    "value_": "@drawable\/app_icon",
-                    "_id_": 21
-                },
-                "_id_": 20
+                    "value_": "@drawable\/app_icon"
+                }
             },
             "legacyIcon": {
+                "_id_": 22,
                 "_type": "MipmapReference",
                 "ref": {
+                    "_id_": 23,
                     "_type": "String",
-                    "value_": "@mipmap\/app_icon",
-                    "_id_": 23
-                },
-                "_id_": 22
+                    "value_": "@mipmap\/app_icon"
+                }
             }
         },
         "targetSdk": {
@@ -106,7 +106,7 @@
         "label": {
             "_id_": 25,
             "_type": "String",
-            "value_": "HTML App"
+            "value_": "Infinitecraft recipes "
         },
         "versionName": {
             "_id_": 26,
@@ -130,8 +130,8 @@
         "packageName": {
             "_id_": 30,
             "_type": "String",
-            "value_": "com.aaappps.html"
+            "value_": "com.nch.html"
         }
     },
-    "_abVer": 223
+    "_abVer": 224
 }
